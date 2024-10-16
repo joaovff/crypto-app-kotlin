@@ -20,7 +20,6 @@ A simple Android application that fetches and displays cryptocurrency data using
 
 ```bash
    git clone https://github.com/yourusername/crypto_app.git
-   cd crypto_app
 ```
 
 2. Open the repository using Android Studio and run the device simulator.
